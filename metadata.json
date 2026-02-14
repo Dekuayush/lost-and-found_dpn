@@ -1,0 +1,7 @@
+{
+  "name": "Lost and Found for DPN",
+  "description": "The official lost and found portal for students of Dharampeth Polytechnic Nagpur. Report and track lost campus items easily.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
